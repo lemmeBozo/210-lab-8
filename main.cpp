@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// COMSC-210 | Lab XXXX: XXXXXXXXX | Erick Pascual-Bautista
+// COMSC-210 | Lab 8: GitHub Repository | Erick Pascual-Bautista
 
 int main() {
     cout << "Hey this is my first time using git via terminal" << endl;
